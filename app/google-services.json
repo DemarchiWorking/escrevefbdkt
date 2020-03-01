@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "406814493121",
+    "firebase_url": "https://bdformulario-ed0ec.firebaseio.com",
+    "project_id": "bdformulario-ed0ec",
+    "storage_bucket": "bdformulario-ed0ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406814493121:android:c1415813eb9e8b38c2c740",
+        "android_client_info": {
+          "package_name": "bd.nosql.bdformulario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406814493121-e6uiaahcqtki788rke2jd8dva3bkvmal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bd.nosql.bdformulario",
+            "certificate_hash": "6cc271b4e97c7b43c5f974c9f4b9fab83b7dc535"
+          }
+        },
+        {
+          "client_id": "406814493121-6hfsed63936ffcmsvao8vle103m9c0u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK8NywHTS8EeqT-gVtthraV_pHBcy47-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406814493121-6hfsed63936ffcmsvao8vle103m9c0u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
